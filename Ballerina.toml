@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["microsoft_excel_to_salesforce_convertlead"]
+  icon = "docs/icon.png"
+  keywords = ["Kind/Sample","Type/ManualTrigger","Category/Integration"]
+  name = "microsoft_excel_to_salesforce_convertlead"
+  org = "josedalpra"
+  version = "3.1.0"
+
